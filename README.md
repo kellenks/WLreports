@@ -19,5 +19,5 @@
 - That's it!
 
 ### Notes
-- The twin_data and clinic_data CSV files are empty and are included only for presentation purposes. For first time use, delete then drop files given over email.
+- The twin_data and clinic_data CSV files are empty and are included only for presentation purposes. For first time use, delete then drop files in Lab resources folder.
 - Add folder to desktop by clicking greed "Code" button on upper-right and downloading zip. Then unzip and save to desktop.
