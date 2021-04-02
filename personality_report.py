@@ -173,7 +173,7 @@ score_df = pd.DataFrame(scores).transpose().dropna()
 completed += list(score_df.index)
 completed_df = pd.DataFrame()
 completed_df['Completed'] = completed
-#completed_df.to_csv('completed.csv')
+completed_df.to_csv('completed.csv')
 #score_df = score_df.loc[~(score_df == 0).all(axis=1)]
 ##
 # End
