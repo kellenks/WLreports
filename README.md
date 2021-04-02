@@ -14,4 +14,7 @@
 ### Using Python (if folder is saved to Desktop)
 - Open terminal
 - **Paste and run:** cd /Desktop/WLreports
+- Ensure that you have dropped the latest data into the folder
+- **Paste and run:** python personality_report.py
+- That's it!
 
